@@ -1,10 +1,10 @@
- #Infinite Scroll
+ # Infinite Scroll
  ***
  This repository contains a web application which implements javascript ifinite scroll feature.
  ***
  The web app is built using HTML,CSS and vanilla JS.
  ***
-##In this web app:
+## In this web app:
 
 - The page will display a list of quotes that come from a fetch API. By default, it shows 10 quotes.
 
